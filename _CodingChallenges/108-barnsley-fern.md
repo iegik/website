@@ -38,6 +38,12 @@ contributions:
       url: "https://fraguilar.com"
     url: "https://www.instagram.com/p/Bmlttbvnm1U/"
     source: "https://github.com/fernand0aguilar/art-code-poetry/blob/master/Processing/Barnsley_Fern_ando/Barnsley_Fern_ando.pde"
+  - title: "ES6"
+    author:
+      name: "Arturs Jansons"
+      url: "https://github.com/iegik/"
+    url: "https://codepen.io/iegik/full/XxEmRM"
+    source: "https://codepen.io/iegik/pen/XxEmRM"
 ---
 
 In this coding challenge, I visualize the Barnsley Fern fractal with Processing (Java).
